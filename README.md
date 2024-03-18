@@ -1,3 +1,3 @@
 # Colombian-education-case-study
 Sample data analysis case study based on student socioeconomical data and scores on end-of-secondary tests in Colombia.
-The following report describes a case study I (the author) completed on Colombian Education, specifically on the performance of students on the state-mandated test at the end of their secondary education (Pruebas Saber 11). The test is administered by ICFES (Colombian Institute for the Promotion of Higher Education), and it is meant to be a reliable indicator of how students are faring in the country´s educational system. ICFES also asks students presenting the test to answer a series of questions regarding their socio-economic background for study purposes, which is the data employed by this study.
+The study was initially completed on Spanish on the .ipynb file attached, but I´ve added a short summary of the process and findings in English, for interested readers.
